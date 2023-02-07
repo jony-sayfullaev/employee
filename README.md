@@ -1,3 +1,4 @@
+
 # Docker DRF Application
 
 ## Introduction
@@ -30,6 +31,32 @@ This is a sample project that demonstrates how to set up a Dockerized Django Res
 
 ## Contact
 If you have any questions, feel free to reach out to me at `jonysayfullaev2000@gmail.com`
+
+# employee
+
+# Django Rest Framework Application
+
+## Introduction
+
+This is a Django Rest Framework (DRF) application that builds RESTful APIs.
+
+## Prerequisites
+
+- [Django](https://www.djangoproject.com/)
+- [Django Rest Framework](https://www.django-rest-framework.org/)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/jony-sayfullaev/employee/tree/FE-1-init-application`
+2. Create a virtual environment: `python -m venv venv`
+3. Activate the virtual environment: `source venv/bin/activate`
+4. Install the required packages: `pip install -r requirements.txt`
+5. Set up the database: `python manage.py migrate`
+
+## Launch
+
+To start the development server, run: python manage.py runserver
+
 
 
 ## Usage
