@@ -1,3 +1,37 @@
+
+# Docker DRF Application
+
+## Introduction
+This is a sample project that demonstrates how to set up a Dockerized Django Rest Framework (DRF) application. 
+
+## Requirements
+- Docker
+- Docker Compose
+
+## How to run
+1. Clone this repository: `git clone https://github.com/jony-sayfullaev/employee/tree/FE-2-init-application`
+
+2. Change directory to the cloned repository
+- cd docker-employee
+
+3. Build the Docker containers
+- docker-compose build
+
+4. Start the containers
+- docker-compose up
+
+
+5. Access the application on your web browser at `http://localhost:8000`
+
+## Technologies used
+- Django
+- Django Rest Framework
+- Docker
+- Docker Compose
+
+## Contact
+If you have any questions, feel free to reach out to me at `jonysayfullaev2000@gmail.com`
+
 # employee
 
 # Django Rest Framework Application
@@ -22,6 +56,7 @@ This is a Django Rest Framework (DRF) application that builds RESTful APIs.
 ## Launch
 
 To start the development server, run: python manage.py runserver
+
 
 
 ## Usage
